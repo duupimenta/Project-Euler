@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Desktop\Projetos\ProjectEuler\Project Euler\Project Euler\bin\Debug\Project Euler.exe.config
+C:\Users\Eduardo\Desktop\Projetos\ProjectEuler\Project Euler\Project Euler\bin\Debug\Project Euler.exe
+C:\Users\Eduardo\Desktop\Projetos\ProjectEuler\Project Euler\Project Euler\bin\Debug\Project Euler.pdb
+C:\Users\Eduardo\Desktop\Projetos\ProjectEuler\Project Euler\Project Euler\obj\Debug\Project Euler.exe
+C:\Users\Eduardo\Desktop\Projetos\ProjectEuler\Project Euler\Project Euler\obj\Debug\Project Euler.pdb
+C:\Users\Eduardo\Desktop\Projetos\ProjectEuler\Project Euler\Project Euler\obj\Debug\Project Euler.csprojResolveAssemblyReference.cache
